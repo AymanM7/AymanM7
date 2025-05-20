@@ -22,4 +22,4 @@ I’m a student at **The University of Texas at Dallas (UTD)**, majoring in **In
 
 > “Turning data and product into decisions, and ideas into impact.”
 
-Thanks for stopping by! Feel free to explore my repositories and connect.
+Thanks for stopping by! Feel free to explore my work and connect.
