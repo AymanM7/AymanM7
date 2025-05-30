@@ -8,9 +8,7 @@ I’m a student at **The University of Texas at Dallas (UTD)**, majoring in **Co
 
 
 - 🧑‍💼 **Professional Roles:** Data Analyst | Data Scientist | Product Manager  
-- 🚀 **Key Skills:** Tableau, Excel, SQL, Machine Learning, Java, Python, Git, API Integration, Figma, Communication , Agile Methodologies , Scrum Master
-- 📊 **Favorite Project:**  
-  **Tesla APAC Global Mobility Project** – Leveraged Tableau to visualize global mobility data for Tesla’s APAC region, uncovering trends and driving strategic decisions.  
+- 🚀 **Key Skills:** Tableau, Excel, SQL, Machine Learning, Java, Python, Git, API Integration, Figma, Communication , Agile Methodologies , Scrum Master  
 - ⚽ **Hobbies:** I enjoy playing Football and Basketball during my free time.
 
 ## 📫 Connect with Me 📫
