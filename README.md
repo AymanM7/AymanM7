@@ -13,7 +13,7 @@ I’m a student at **The University of Texas at Dallas (UTD)**, majoring in **Co
   **Tesla APAC Global Mobility Project** – Leveraged Tableau to visualize global mobility data for Tesla’s APAC region, uncovering trends and driving strategic decisions.  
 - ⚽ **Hobbies:** I enjoy playing Football and Basketball during my free time.
 
-## 📫 Connect with Me
+## 📫 Connect with Me 📫
 <a href="https://www.linkedin.com/in/ayman-mohammad-063278255/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Ayman%20Mohammad-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
