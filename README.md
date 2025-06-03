@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 
-I’m a student at **The University of Texas at Dallas (UTD)**, majoring in **Computer Information Systems and Technology** with a passion for learning Machine Learning, AI I have a passion for transforming data into actionable insights and building products that make an impact. My toolbox includes everything from data manipulation to product design, and I love collaborating across disciplines to turn ideas into reality.
+I’m a student at **The University of Texas at Dallas (UTD)**, majoring in **Computer Information Systems and Technology** with a passion for learning Machine Learning and AI.I also  have a passion for transforming data into actionable insights and building products that make an impact. My toolbox includes everything from data manipulation to product design, and I love collaborating across disciplines to turn ideas into reality.
 
 
 
