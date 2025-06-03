@@ -3,11 +3,10 @@ Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 
-I’m a student at **The University of Texas at Dallas (UTD)**, majoring in **Computer Information Systems and Technology** with a passion for becoming a **Data Analyst**, **Data Scientist**, or a  **Product Manager**. I have a passion for transforming data into actionable insights and building products that make an impact. My toolbox includes everything from data manipulation to product design, and I love collaborating across disciplines to turn ideas into reality.
+I’m a student at **The University of Texas at Dallas (UTD)**, majoring in **Computer Information Systems and Technology** with a passion for learning Machine Learning, AI I have a passion for transforming data into actionable insights and building products that make an impact. My toolbox includes everything from data manipulation to product design, and I love collaborating across disciplines to turn ideas into reality.
 
 
 
-- 🧑‍💼 **Professional Roles:** Data Analyst | Data Scientist | Product Manager  
 - 🚀 **Key Skills:** Tableau, Excel, SQL, Machine Learning, Java, Python, Git, API Integration, Figma, Communication , Agile Methodologies , Scrum Master  
 - ⚽ **Hobbies:** I enjoy playing Football and Basketball during my free time.
 
