@@ -8,7 +8,7 @@ I’m a student at **The University of Texas at Dallas (UTD)**, majoring in **Co
 
 
 - 🚀 **Key Skills:** Tableau, Excel, SQL, Machine Learning, Java, Python, Git, API Integration, Figma, Communication , Agile Methodologies , Scrum Master  
-- ⚽ **Hobbies:** I enjoy playing Football and Basketball during my free time.
+- ⚽ **Hobbies:** I enjoy playing Football,Basketball and Golf during my free time.
 
 ## 📫 Connect with Me 📫
 <a href="https://www.linkedin.com/in/ayman-mohammad-063278255/" target="_blank">
