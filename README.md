@@ -7,7 +7,7 @@ I’m a student at **The University of Texas at Dallas (UTD)**, majoring in **Co
 
 
 
-- 🚀 **Key Skills:** Tableau, Excel, SQL, Machine Learning, Java, Python, Git, API Integration, Figma, Communication , Agile Methodologies , Scrum Master  
+- 🚀 **Key Skills:** Tableau, Excel, SQL, Machine Learning, Java, Python, Git, API Integration, Figma, Communication , Agile Methodologies ,   
 - ⚽ **Hobbies:** I enjoy playing Football,Basketball and Golf during my free time.
 
 ## 📫 Connect with Me 📫
