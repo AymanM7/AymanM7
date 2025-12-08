@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 I’m a student at **The University of Texas at Dallas (UTD)** with a strong interest in **Machine Learning**, **Artificial Intelligence**, and **research**. I enjoy exploring how data, intelligent systems, and thoughtful design can come together to solve real-world problems.
 
-I love working across the stack — from **web development** and **full-stack engineering** to **data analysis** and **product thinking** — and I’m especially excited about:
+I love working across the stack — from **web development** and **ML/AI** to **data analysis** and **product thinking** — and I’m especially excited about:
 
 - 🤖 Building ML/AI-powered applications  
 - 📊 Turning raw data into clear, actionable insights  
@@ -16,8 +16,6 @@ I love working across the stack — from **web development** and **full-stack en
 Collaboration is a big part of how I work: I enjoy teaming up with people from different backgrounds to turn ideas into something meaningful and useful.
 
 ---
-
-## ⚽ Hobbies
 
 ## ⚽ Hobbies
 
