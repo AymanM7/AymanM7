@@ -19,9 +19,9 @@ Collaboration is a big part of how I work: I enjoy teaming up with people from d
 
 ## ⚽ Hobbies
 
-- 🏈 **Football** – Played for my high school team (JV legends rise up 😤) and in a couple of competitive leagues  
-- 🏀 **Basketball** – Still pretty good (depending on the day and who you ask), still trying to perfect the jumper while occasionally perfecting the art of missing  
-- ⛳ **Golf** – Chasing that one perfect shot that keeps me coming back after 17 questionable ones
+- 🏈 **Football**  
+- 🏀 **Basketball** 
+- ⚽ **Soccer** 
 
 
 ---
