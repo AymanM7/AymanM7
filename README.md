@@ -11,7 +11,7 @@ I love working across the stack — from **web development** and **ML/AI** to **
 - 🤖 Building ML/AI-powered applications  
 - 📊 Turning raw data into clear, actionable insights  
 - 🌐 Developing impactful web experiences  
-- 🧪 Exploring research ideas at the intersection of AI and Medicine.
+- 🧪 Exploring research ideas at the intersection of AI and VR/AR.
 
 Collaboration is a big part of how I work: I enjoy teaming up with people from different backgrounds to turn ideas into something meaningful and useful.
 
