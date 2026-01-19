@@ -13,7 +13,7 @@ I love working across the stack — from **web development** and **ML/AI** to **
 - 🌐 Developing impactful web experiences  
 - 🧪 Exploring research ideas at the intersection of AI and VR/AR.
 
-Collaboration is a big part of how I work: I enjoy teaming up with people from different backgrounds to turn ideas into something meaningful and useful.
+Collaboration is a big part of how I work: I enjoy teaming up with people from various backgrounds to turn ideas into something meaningful and useful.
 
 ---
 
