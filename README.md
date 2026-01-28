@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 
-I’m a student at **The University of Texas at Dallas (UTD)** with a strong interest in **Machine Learning**, **Artificial Intelligence**, and **research**. I enjoy exploring how data, intelligent systems, and thoughtful design can come together to solve real-world problems.
+I’m a student at **The University of Texas at Dallas (UTD)** with a strong interest in **Machine Learning**, **Artificial Intelligence**, Data Analytics and **Research**. I enjoy exploring how data, intelligent systems, and thoughtful design can come together to solve real-world problems.
 
 I love working across the stack — from **web development** and **ML/AI** to **data analysis** and **product thinking** — and I’m especially excited about:
 
